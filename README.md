@@ -36,6 +36,10 @@ A minimalist productivity timer app built with **React Native + Expo**, focused 
 
 **Tech:** React Native, Expo, TypeScript, AsyncStorage, Expo Notifications
 
+<a href="https://play.google.com/store/apps/details?id=com.jonatasbarra.focusflowtimer">
+  <img src="https://img.shields.io/badge/Google%20Play-FocusFlow%20Timer-414141?style=for-the-badge&logo=google-play&logoColor=white" />
+</a>
+
 ---
 
 ### 🏋️ SetHero Gym
