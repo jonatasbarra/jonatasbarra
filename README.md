@@ -1,155 +1,191 @@
 <h1 align="center">Hi, I'm Jonatas Barra 👋</h1>
 
 <p align="center">
-  <strong>Software Developer in progress</strong> · React Native · Python · Linux · Mobile Apps · Web Development
+  <strong>Software Developer</strong><br>
+  React Native · TypeScript · JavaScript · Python · Linux
 </p>
 
 <p align="center">
-  <a href="https://github.com/jonatasbarra">
-    <img src="https://komarev.com/ghpvc/?username=jonatasbarra&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+  <a href="https://www.linkedin.com/in/jonatasbarra/">LinkedIn</a>
+  ·
+  <a href="mailto:email.jonatas@gmail.com">Email</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a developer building real-world projects while growing my skills in **mobile development, web development, Python, Linux, and cloud technologies**.
+I'm a software developer with a degree in Data Science, currently focused on building practical mobile, web, and automation projects.
 
-I enjoy creating useful applications, improving my workflow, learning modern development practices, and turning ideas into working products.
+My main experience is with **JavaScript, TypeScript, React, React Native, and Python**, with additional hands-on work involving local databases, REST APIs, GitHub Actions, Linux environments, and application deployment.
 
-Currently, I'm focused on:
+I enjoy taking projects beyond tutorials and prototypes — designing features, solving technical problems, structuring code, debugging real-world issues, and turning ideas into working software.
 
-- 📱 Building mobile apps with **React Native + Expo**
-- 🌐 Improving my full-stack development skills
-- 🐍 Working with **Python** for automation, data, and practical tools
-- 🐧 Customizing and learning Linux environments
-- 🚀 Publishing real projects and improving my GitHub portfolio
+I'm currently preparing for **entry-level Software Developer / Software Engineer roles**, with particular interest in:
 
----
+- Software Development
+- Mobile Development
+- Web Development
+- JavaScript / TypeScript
+- Full-Stack Development
 
-## 🚀 Featured Projects
-
-### ⏱️ FocusFlow Timer
-
-A minimalist productivity timer app built with **React Native + Expo**, focused on Pomodoro-style sessions, tasks, stats, settings, and reliable notifications.
-
-**Tech:** React Native, Expo, TypeScript, AsyncStorage, Expo Notifications
-
-<a href="https://play.google.com/store/apps/details?id=com.jonatasbarra.focusflowtimer">
-  <img src="https://img.shields.io/badge/Google%20Play-FocusFlow%20Timer-414141?style=for-the-badge&logo=google-play&logoColor=white" />
-</a>
+Based in **Jacksonville, Florida, USA**.
 
 ---
 
-### 🏋️ SetHero Gym
+## Featured Projects
 
-A fitness app project focused on helping users organize gym workouts, exercises, sets, and training flow.
+### FocusFlow
 
-**Tech:** React Native, Expo, Mobile App Development
+A productivity application built around Pomodoro focus sessions, task management, productivity statistics, and configurable timers.
 
----
+**Tech:** React Native · TypeScript · Expo · Expo Router · AsyncStorage · Expo Notifications
 
-### 🌱 e-PlantShopping
+Key engineering work:
 
-A React + Redux Toolkit project for an online plant shopping experience, including product listing and cart management.
+- Built and published the Android application to Google Play
+- Implemented task management and productivity analytics
+- Designed local persistence for settings, tasks, sessions, and timer state
+- Implemented Android local notifications, sound, vibration, and permission handling
+- Built timer logic that remains accurate across foreground, background, and screen-locked states
 
-**Tech:** React, JavaScript, Redux Toolkit, CSS
-
----
-
-### 🐍 DiceSum
-
-A Python/OpenCV project that detects dice dots from an image and calculates the total sum.
-
-**Tech:** Python, OpenCV, Computer Vision
+[View FocusFlow on Google Play](https://play.google.com/store/apps/details?id=com.jonatasbarra.focusflowtimer)
 
 ---
 
-### ⛪ Espaço Novo Tempo Jax
+### SetHero
 
-Official website project for Igreja Adventista Espaço Novo Tempo Jax in Jacksonville, Florida.
+A fitness tracking mobile application focused on workout planning, exercise management, training sessions, history, progress, and achievements.
 
-**Tech:** HTML, CSS, JavaScript
+**Tech:** React Native · TypeScript · Expo · Zustand · SQLite · Expo Router
+
+Key engineering work:
+
+- Built workout and exercise creation/editing flows
+- Implemented active workout sessions with set logging and rest timers
+- Designed local-first application persistence using SQLite
+- Implemented schema migrations and repository-based data access
+- Used Zustand for application state management
+- Added workout history, statistics, achievements, and multilingual infrastructure
+
+**Status:** In development · Private repository
 
 ---
 
-### 🐧 Hyprland Rice
+### Italian Citizenship Case Monitor
 
-Personal Linux desktop customization project using Hyprland.
+A Python automation that checks an online citizenship case for changes and sends email notifications when an update is detected.
 
-**Tech:** Linux, Shell, Hyprland, Wayland
+**Tech:** Python · Playwright · GitHub Actions · Chromium · SMTP · GitHub Secrets
+
+Key engineering work:
+
+- Automated browser interaction using Playwright
+- Scheduled daily execution with GitHub Actions
+- Implemented persistent state comparison between executions
+- Configured email notifications when changes are detected
+- Used GitHub Secrets for secure credential management
+- Designed the workflow to run automatically in a Linux cloud environment
+
+[View Repository](https://github.com/jonatasbarra/processo-cidadania-monitor)
 
 ---
 
-## 🛠️ Tech Stack
+### JonPanel
+
+A custom GTK4 desktop shell bar for Hyprland built with TypeScript and AGS.
+
+**Tech:** TypeScript · GTK4 · AGS · SCSS · Linux · Hyprland
+
+Features include:
+
+- Workspace and active-window integration
+- Wi-Fi, Bluetooth, battery, brightness, and volume controls
+- Notification system
+- On-screen volume and brightness indicators
+- Multi-monitor support
+- Custom Linux installation scripts
+
+[View Repository](https://github.com/jonatasbarra/jonpanel)
+
+---
+
+### Espaço Novo Tempo Jax Website
+
+Website developed for a church organization in Jacksonville, Florida.
+
+**Tech:** HTML · CSS · JavaScript
+
+Built as a responsive website to provide information about services, events, and local activities.
+
+[View Repository](https://github.com/jonatasbarra/espaco-novo-tempo-jax)
+
+---
+
+### e-PlantShopping
+
+A React e-commerce project featuring product browsing, shopping cart management, and quantity controls.
+
+**Tech:** React · JavaScript · Redux Toolkit · Vite · CSS
+
+[View Repository](https://github.com/jonatasbarra/e-plantShopping)
+
+---
+
+## Technical Skills
 
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,bash" />
-</p>
+`JavaScript` · `TypeScript` · `Python` · `SQL` · `HTML` · `CSS` · `Bash`
 
 ### Frontend & Mobile
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,redux,expo,vite" />
-</p>
+`React` · `React Native` · `Expo` · `Expo Router`
 
-### Tools & Platforms
+### Backend & Data
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,firebase,supabase" />
-</p>
+`Flask` · `REST APIs` · `SQLite` · `MySQL` · `Supabase` · `Firebase`
 
----
+### Development Tools
 
-## 📚 Currently Learning
-
-- Full-stack development
-- React Native app architecture
-- Cloud development fundamentals
-- Python automation and data handling
-- Git/GitHub workflows
-- App publishing for Google Play and Apple App Store
+`Git` · `GitHub` · `GitHub Actions` · `Postman` · `Linux`
 
 ---
 
-## 📊 GitHub Stats
+## Currently Improving
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jonatasbarra&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jonatasbarra&theme=tokyonight&hide_border=true" />
-</p>
+I'm currently strengthening areas that complement my frontend and mobile experience:
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasbarra&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+- Backend development
+- Node.js
+- PostgreSQL
+- Docker
+- Automated testing
+- Software architecture
+- Data structures and algorithms
+- Collaborative Git workflows
 
----
-
-## 🎯 Goals
-
-My current goal is to build a strong developer portfolio with practical projects that demonstrate:
-
-- Clean code
-- Good UI/UX
-- Real-world problem solving
-- Mobile and web development skills
-- Consistent learning and improvement
+I'm also completing the **IBM Full Stack Software Developer Professional Certificate** on Coursera.
 
 ---
 
-## 🤝 Let's Connect
+## What I'm Looking For
 
-<p>
-  <a href="https://github.com/jonatasbarra">
-    <img src="https://img.shields.io/badge/GitHub-jonatasbarra-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+I'm interested in entry-level opportunities where I can contribute to production software while continuing to grow as an engineer.
+
+Target roles include:
+
+- Junior Software Developer
+- Junior Software Engineer
+- Mobile Developer
+- React / React Native Developer
+- JavaScript / TypeScript Developer
+- Web Developer
 
 ---
 
-<p align="center">
-  <em>Building, learning, improving — one project at a time.</em>
-</p>
+## Contact
+
+**LinkedIn:** [linkedin.com/in/jonatasbarra](https://www.linkedin.com/in/jonatasbarra/)  
+**GitHub:** [github.com/jonatasbarra](https://github.com/jonatasbarra)  
+**Email:** [email.jonatas@gmail.com](mailto:email.jonatas@gmail.com)
